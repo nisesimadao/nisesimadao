@@ -6,7 +6,7 @@ macOS / iOS を中心に、デスクトップアプリやユーティリティ�
 ## Focus
 - Swift / SwiftUI を用いた macOS・iOS アプリ開発
 - 小規模で実用的なツールの設計・実装
-- クロスプラットフォームを意識した開発経験
+- クロスプラットフォームを意識した開発
 
 ## Main Repositories
 ### SimpleWakeOnLan
